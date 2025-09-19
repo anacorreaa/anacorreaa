@@ -44,3 +44,5 @@
 
 </div>
 
+![Snake animation](https://github.com/anacorreaa/anacorreaa/blob/output/github-contribution-grid-snake.svg)
+
